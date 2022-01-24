@@ -1,0 +1,19 @@
+h1 {
+    font-family: 'Courier New', Courier, monospace;
+}
+
+div {
+    height: 90px;
+    width: 100%;
+    background-color: rgb(253, 236, 179);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    border-radius: 10px;
+}
+
+button {
+    height: 40px;
+    width: 90px;
+    border: 2px solid black;
+}
